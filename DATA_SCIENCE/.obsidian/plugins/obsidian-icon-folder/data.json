@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiArrowLeftRight",
       "LiActivity",
       "LiAlarmClockMinus"
     ],
@@ -35,5 +36,6 @@
   "01_Statistics_&_Mathematics": {
     "iconName": "LiActivity",
     "iconColor": "#ed0202"
-  }
+  },
+  "03_Machine_Learning/01_Foundations/Bias_Variance_Tradeoff.md": "LiArrowLeftRight"
 }
