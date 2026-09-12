@@ -1,7 +1,8 @@
 [
   "obsidian-icon-folder",
   "obsidian-excalidraw-plugin",
-  "explorer-colors",
   "colored-tags",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-style-settings",
+  "color-folders-files"
 ]

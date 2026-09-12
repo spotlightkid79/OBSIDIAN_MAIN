@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 335.48046875
   },
   "right": {
     "id": "f3150260a5a77ec9",
@@ -201,7 +201,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2022a45c33b2ed22",
+  "active": "6f2d2e885168d3ac",
   "lastOpenFiles": [
     "02_Data_Preprocessing&Cleaning/Feature Engineering.md",
     "02_Data_Preprocessing&Cleaning/Log Transformation.md",

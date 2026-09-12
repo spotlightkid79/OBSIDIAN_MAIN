@@ -1,0 +1,15 @@
+{
+  "styles": {
+    "04_Visualization": {
+      "backgroundColor": "#f77102",
+      "textColor": "#ffffff",
+      "isBold": true
+    },
+    "03_Machine_Learning": {
+      "backgroundColor": "#0084ff",
+      "textColor": "#ffffff"
+    }
+  },
+  "presets": {},
+  "presetOrder": []
+}
