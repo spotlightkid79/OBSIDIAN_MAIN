@@ -1,4 +1,6 @@
 {
   "cssTheme": "",
-  "translucency": true
+  "translucency": true,
+  "theme": "moonstone",
+  "accentColor": "#f2991c"
 }
