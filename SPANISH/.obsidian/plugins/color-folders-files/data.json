@@ -1,0 +1,20 @@
+{
+  "styles": {
+    "DATA_SCIENCE": {
+      "backgroundColor": "#ed840c",
+      "opacity": 1,
+      "isBold": true
+    },
+    "Untitled": {
+      "textColor": "#000000",
+      "backgroundColor": "#51d4f5"
+    },
+    "INTERVIEW NOTES": {
+      "backgroundColor": "#34d8f9",
+      "isBold": true,
+      "textColor": "#ffffff"
+    }
+  },
+  "presets": {},
+  "presetOrder": []
+}

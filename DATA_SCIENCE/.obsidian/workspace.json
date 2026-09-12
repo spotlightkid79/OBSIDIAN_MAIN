@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "1dff8db6f9f77a12",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d94efdc75b5608e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2022a45c33b2ed22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Data_Preprocessing&Cleaning/EDA Basics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EDA Basics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39c9aba29b49b882",
+    "type": "split",
+    "children": [
+      {
+        "id": "26557fa3fcdd187b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38905e005bdf8d6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5ab0a3d3fd278e1d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "6f2d2e885168d3ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f3150260a5a77ec9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4e723afa587b8dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d085cdf2437b8f56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03_Machine_Learning/01 Foundations/Underfitting, Overfitting, Balanced Fitting.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Underfitting, Overfitting, Balanced Fitting"
+            }
+          },
+          {
+            "id": "38b10afe95a083cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03_Machine_Learning/01 Foundations/Underfitting, Overfitting, Balanced Fitting.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Underfitting, Overfitting, Balanced Fitting"
+            }
+          },
+          {
+            "id": "3137c889e7a63c7e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1dbe564f7b1eccdf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c253fa87fe67ca8a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03_Machine_Learning/01 Foundations/Underfitting, Overfitting, Balanced Fitting.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Underfitting, Overfitting, Balanced Fitting"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "2022a45c33b2ed22",
+  "lastOpenFiles": [
+    "02_Data_Preprocessing&Cleaning/Feature Engineering.md",
+    "02_Data_Preprocessing&Cleaning/Log Transformation.md",
+    "02_Data_Preprocessing&Cleaning/EDA Basics.md",
+    "02_Data_Preprocessing&Cleaning/Fixing Structural Errors & Consistency.md",
+    "05_Process_Flow/2 · Data Collection.md",
+    "06_SQL/🐿️ SQL.md",
+    "05_Process_Flow/3 · Exploratory Data Analysis (EDA).md",
+    "05_Process_Flow/🔄 05 · Process Flow.md",
+    "02_Data_Preprocessing&Cleaning/Encoding Categorical Variables.md",
+    "02_Data_Preprocessing&Cleaning/dfsadsaf",
+    "02_Data_Preprocessing&Cleaning/🧹 02 · Data Manipulation & Cleaning.md",
+    "02_Data_Preprocessing&Cleaning/DateTime Handling.md",
+    "02_Data_Preprocessing&Cleaning/Label Encoding & Ordinal Encoding.md",
+    "01_Statistics_&_Mathematics/Confidence Intervals.md",
+    "01_Statistics_&_Mathematics/Descriptive Statistics.md",
+    "01_Statistics_&_Mathematics/Bayes' Theorem.md",
+    "01_Statistics_&_Mathematics/Hypothesis Testing.md",
+    "01_Statistics_&_Mathematics/Calculus for ML.md",
+    "03_Machine_Learning/Model Selection — Decision Process.md",
+    "03_Machine_Learning/🤖 03 · Machine Learning.md",
+    "03_Machine_Learning/04_Reinforcement_Learning/Reinforcement_Learning_Intro.md",
+    "03_Machine_Learning/04_Reinforcement_Learning/🎮 Reinforcement Learning.md",
+    "04_Visualization/Box Plots.md",
+    "04_Visualization/📈 04 · Visualization.md",
+    "03_Machine_Learning/02_Supervised/01_Regression/01 Regression.md",
+    "03_Machine_Learning/02_Supervised/01_Regression/02 Linear&Multiple_LinearRegression.md",
+    "03_Machine_Learning/01_Foundations/Distance-Based Algorithms.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Data_Science_Oyt",
+    "04_Visualization/Count Plots.md.crswap",
+    "02_Data_Preprocessing&Cleaning/🧹 02 · Data Manipulation & Cleaning.md.crswap",
+    "04_Visualization/Bar Charts.md.crswap",
+    "04_Visualization/Pie Charts.md.crswap",
+    "02_Data_Preprocessing&Cleaning/Pandas Basics.md.crswap",
+    "02_Data_Preprocessing&Cleaning/NumPy Basics.md.crswap",
+    "02_Data_Preprocessing&Cleaning/Feature Engineering.md.crswap",
+    "01_Statistics_&_Mathematics/Hypothesis Testing.md.crswap"
+  ]
+}

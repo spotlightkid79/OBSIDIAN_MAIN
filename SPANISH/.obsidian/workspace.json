@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "5b4cc9c2ba87177e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcd3fa914be449b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bba48db24ea13f62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc083598506a5601",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ccb82dd7a44659e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c8538c7bcbeddea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "52cf0ab049a5b1a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b438b9b0f4ee908c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f53f56c12654a9c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c0b3e906a7c3481",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbf7f879123b80c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "21f5c57f8c2d681e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "66cae39be8c4de7e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d43b61375c5196bd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8490f455c1e92ee0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bba48db24ea13f62",
+  "lastOpenFiles": [
+    "README.md",
+    "Welcome.md",
+    "DATA_SCIENCE/03_Machine_Learning/01_Supervised_Learning/05_Model_Evaluation_&_Tuning/Model_Selection_Checklist.md",
+    "DATA_SCIENCE/03_Machine_Learning/01_Supervised_Learning/05_Model_Evaluation_&_Tuning/Hyperparameter_Optimization.md",
+    "DATA_SCIENCE/03_Machine_Learning/01_Supervised_Learning/05_Model_Evaluation_&_Tuning/Cross_Validation_Strategies.md",
+    "DATA_SCIENCE/03_Machine_Learning/01_Supervised_Learning/05_Model_Evaluation_&_Tuning/Confusion_Matrix_&_F1_Score.md",
+    "DATA_SCIENCE/03_Machine_Learning/01_Supervised_Learning/04_Time_Series_Forecasting/Seasonal_Decomposition.md",
+    "DATA_SCIENCE/03_Machine_Learning/01_Supervised_Learning/04_Time_Series_Forecasting/Prophet_Forecasting.md",
+    "DATA_SCIENCE/03_Machine_Learning/01_Supervised_Learning/04_Time_Series_Forecasting/ARIMA_Models.md",
+    "DATA_SCIENCE/03_Machine_Learning/01_Supervised_Learning/03_Tree_Models (The Logic Gates)/XGBoost_&_Gradient_Boosting.md",
+    "DATA_SCIENCE/03_Machine_Learning/01_Supervised_Learning/03_Tree_Models (The Logic Gates)/Random_Forest.md",
+    "DATA_SCIENCE/03_Machine_Learning/01_Supervised_Learning/03_Tree_Models (The Logic Gates)/Decision_Trees.md",
+    "DATA_SCIENCE/03_Machine_Learning/01_Supervised_Learning/02_Classification/Support_Vector_Machines_SVM.md",
+    "DATA_SCIENCE/03_Machine_Learning/01_Supervised_Learning/02_Classification/Nearest_Neighbors_KNN.md",
+    "DATA_SCIENCE/03_Machine_Learning/01_Supervised_Learning/02_Classification/Naive_Bayes.md",
+    "DATA_SCIENCE/03_Machine_Learning/01_Supervised_Learning/02_Classification/Logistic_Regression.md",
+    "DATA_SCIENCE/03_Machine_Learning/01_Supervised_Learning/01_Regression/Ridge_&_Lasso_Regression.md",
+    "DATA_SCIENCE/03_Machine_Learning/01_Supervised_Learning/01_Regression/Polynomial_Regression.md",
+    "DATA_SCIENCE/03_Machine_Learning/01_Supervised_Learning/01_Regression/Linear_Regression.md",
+    "DATA_SCIENCE/05_Process_Flow/Machine_Learning_Process/Machine Learning Process Flow.md",
+    "DATA_SCIENCE/03_Machine_Learning/01_Supervised_Learning/05_Model_Evaluation_&_Tuning",
+    "DATA_SCIENCE/03_Machine_Learning/01_Supervised_Learning/04_Time_Series_Forecasting",
+    "DATA_SCIENCE/03_Machine_Learning/01_Supervised_Learning/03_Tree_Models (The Logic Gates)",
+    "DATA_SCIENCE/03_Machine_Learning/01_Supervised_Learning/02_Classification",
+    "DATA_SCIENCE/03_Machine_Learning/01_Supervised_Learning/01_Regression",
+    "DATA_SCIENCE/02_Data_Manipulation & Cleaning/01_Data_Cleaning/Data Cleaning.md",
+    "DATA_SCIENCE/SQL/WindowFunctions.md",
+    "DATA_SCIENCE/SQL/SQL_Mindmap.canvas",
+    "DATA_SCIENCE/SQL/SQL Queries.md",
+    "DATA_SCIENCE/05_Process_Flow/Machine_Learning_Process",
+    "DATA_SCIENCE/03_Machine_Learning/01_Supervised_Learning",
+    "DATA_SCIENCE/02_Data_Manipulation & Cleaning/01_Data_Cleaning",
+    "DATA_SCIENCE/01_Statistics_&_Mathematics/Statistics & Mathematics.md",
+    "DATA_SCIENCE/SQL",
+    "DATA_SCIENCE/Data_Science_Mindmap.canvas",
+    "DATA_SCIENCE/05_Process_Flow"
+  ]
+}
