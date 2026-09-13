@@ -13,14 +13,17 @@
   "anuppuccin-theme-settings@@anp-custom-vault-toggle": false,
   "anuppuccin-theme-settings@@anuppuccin-accent-toggle": false,
   "cupertino@@colorful-frame": true,
-  "cupertino@@nav-action-center": false,
+  "cupertino@@nav-action-center": true,
   "cupertino@@tab-icon": false,
-  "cupertino@@status-bar-baseline": false,
+  "cupertino@@status-bar-baseline": true,
   "cupertino@@zoom-off": false,
   "cupertino@@hover-ribbon": false,
   "cupertino@@hover-sidedock": false,
   "cupertino@@focus-view": false,
-  "cupertino@@icon-size-modifier": 3,
+  "cupertino@@icon-size-modifier": 4,
   "cupertino@@clean-link-off": false,
-  "cupertino@@font-ui-modifier": 2
+  "cupertino@@font-ui-modifier": 1,
+  "cupertino@@tab-floating": true,
+  "cupertino@@active-line-off": false,
+  "cupertino@@banner-off": false
 }
