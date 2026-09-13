@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "df8a1844945e6b11",
+    "type": "split",
+    "children": [
+      {
+        "id": "60fcedec5a6b1cb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a6952caccd11db9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4456f9c499759a4c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b645b362ad69053a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "89a54fbdd24fbff7",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "7c82497da558495b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "c4c2e3c171a475e1",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "837aff85a4174515",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b6634d0b3f299720",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bb237975e3ffe8f8",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "7cd4d96744ba822d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "e48f81ba3001988e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "caed915a76fa2c18",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5a6952caccd11db9",
+  "lastOpenFiles": [
+    "DATA_SCIENCE/Excalidraw/Drawing 2026-09-12 22.38.40.excalidraw.md",
+    "DATA_SCIENCE/Excalidraw/Drawing 2026-09-12 22.38.29.excalidraw.md",
+    "DATA_SCIENCE/Untitled.base",
+    "DATA_SCIENCE/Untitled 3.canvas",
+    "DATA_SCIENCE/2026-09-12.md",
+    "DATA_SCIENCE/Excalidraw",
+    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/05_Model_Evaluation_&_Tuning/Model_Selection_Checklist.md",
+    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/05_Model_Evaluation_&_Tuning/Model Evaluation Comparisons.md",
+    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/05_Model_Evaluation_&_Tuning/Hyperparameter_Tuning.md",
+    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/05_Model_Evaluation_&_Tuning/Hyperparameter_Optimization.md",
+    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/05_Model_Evaluation_&_Tuning/Cross_Validation_Strategies.md",
+    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/05_Model_Evaluation_&_Tuning/01 Confusion_Matrix_&_F1_Score.md",
+    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/04_Time_Series_Forecasting/Seasonal_Decomposition.md",
+    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/04_Time_Series_Forecasting/Prophet_Forecasting.md",
+    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/04_Time_Series_Forecasting/ARIMA_Models.md",
+    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/03_Tree_Models (The Logic Gates)/04 Random Forest Regressor.md",
+    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/03_Tree_Models (The Logic Gates)/03 XGBoost_&_Gradient_Boosting (Classifier - Ensemble Method).md",
+    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/03_Tree_Models (The Logic Gates)/02 Random_Forest (Classifier - Ensamble Method).md",
+    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/03_Tree_Models (The Logic Gates)/01 Decision_Trees (Classifier).md",
+    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/02_Classification/Support_Vector_Machines_SVM.md",
+    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/02_Classification/Nearest_Neighbors_KNN.md",
+    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/02_Classification/Naive_Bayes.md",
+    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/02_Classification/02 Logistic Regression.md",
+    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/02_Classification/01 Classification.md",
+    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/01_Regression/Regression Comparison.md",
+    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/01_Regression/06 Model Evaluation Metrics (Regression).md",
+    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/01_Regression/05 Ridge_&_Lasso_Regression (Regularization).md",
+    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/01_Regression/04 Polynomial Lineer Regression.md",
+    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/01_Regression/02 Linear&Multiple_LinearRegression.md",
+    "DATA_SCIENCE/_backups/flowydraw-backup.json",
+    "DATA_SCIENCE/Untitled.canvas",
+    "DATA_SCIENCE/Untitled 2.canvas",
+    "DATA_SCIENCE/Untitled 1.canvas",
+    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/05_Model_Evaluation_&_Tuning",
+    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/04_Time_Series_Forecasting",
+    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/03_Tree_Models (The Logic Gates)",
+    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/02_Classification",
+    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/01_Regression",
+    "DATA_SCIENCE/03_Machine_Learning/05_Model_Evaluation",
+    "DATA_SCIENCE/03_Machine_Learning/04_Reinforcement_Learning"
+  ]
+}
