@@ -8,23 +8,6 @@
     "03_Machine_Learning": {
       "backgroundColor": "#0084ff",
       "textColor": "#ffffff"
-    },
-    "02_Data_Preprocessing&Cleaning": {
-      "backgroundColor": "#ffffff",
-      "isBold": true
-    },
-    "01_Statistics_&_Mathematics": {
-      "backgroundColor": "#ffffff",
-      "isBold": true
-    },
-    "05_Process_Flow": {
-      "backgroundColor": "#f8f9be",
-      "isBold": true
-    },
-    "06_SQL": {
-      "backgroundColor": "#1a07ab",
-      "isBold": true,
-      "textColor": "#ffffff"
     }
   },
   "presets": {},

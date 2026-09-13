@@ -33,5 +33,9 @@
     "useInternalPlugins": false
   },
   "02_Data_Preprocessing&Cleaning/DateTime Handling.md": "LiAlarmClockMinus",
+  "01_Statistics_&_Mathematics": {
+    "iconName": "LiActivity",
+    "iconColor": "#ed0202"
+  },
   "03_Machine_Learning/01_Foundations/Bias_Variance_Tradeoff.md": "LiArrowLeftRight"
 }
