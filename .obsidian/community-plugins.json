@@ -1,4 +1,8 @@
 [
   "obsidian-git",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-style-settings",
+  "colored-tags",
+  "color-folders-files",
+  "obsidian-icon-folder"
 ]

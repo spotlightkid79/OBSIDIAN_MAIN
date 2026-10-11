@@ -11,10 +11,14 @@
             "id": "4bd28c17885dea16",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01_Statistics_&_Mathematics/Bayes' Theorem.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Bayes' Theorem"
             }
           }
         ]
@@ -182,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.32421875
+    "width": 381.32421875,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
