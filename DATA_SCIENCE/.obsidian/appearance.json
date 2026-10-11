@@ -1,6 +1,8 @@
 {
   "cssTheme": "Cupertino",
   "translucency": true,
-  "theme": "moonstone",
-  "accentColor": "#f2991c"
+  "theme": "system",
+  "accentColor": "#69aef7",
+  "baseFontSizeAction": false,
+  "baseFontSize": 14
 }
