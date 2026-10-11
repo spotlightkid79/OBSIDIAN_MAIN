@@ -11,10 +11,14 @@
             "id": "5a6952caccd11db9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "DATA_SCIENCE/01_Statistics_&_Mathematics/Linear Algebra.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linear Algebra"
             }
           }
         ]
@@ -181,8 +185,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "caed915a76fa2c18",
+  "active": "5a6952caccd11db9",
   "lastOpenFiles": [
+    "DATA_SCIENCE/01_Statistics_&_Mathematics/Calculus for ML.md",
+    "/DATA_SCIENCE/Excalidraw",
+    "/DATA_SCIENCE",
     "DATA_SCIENCE/01_Statistics_&_Mathematics/Bayes' Theorem.md",
     "Excalidraw/Drawing 2026-09-12 22.56.00.excalidraw.md",
     "Excalidraw",
@@ -212,7 +219,6 @@
     "DATA_SCIENCE/03_Machine_Learning/02_Supervised/02_Classification/01 Classification.md",
     "DATA_SCIENCE/03_Machine_Learning/02_Supervised/01_Regression/Regression Comparison.md",
     "DATA_SCIENCE/03_Machine_Learning/02_Supervised/01_Regression/06 Model Evaluation Metrics (Regression).md",
-    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/01_Regression/05 Ridge_&_Lasso_Regression (Regularization).md",
     "DATA_SCIENCE/_backups/flowydraw-backup.json",
     "DATA_SCIENCE/Untitled.canvas",
     "DATA_SCIENCE/Untitled 2.canvas",
@@ -220,8 +226,6 @@
     "DATA_SCIENCE/03_Machine_Learning/02_Supervised/05_Model_Evaluation_&_Tuning",
     "DATA_SCIENCE/03_Machine_Learning/02_Supervised/04_Time_Series_Forecasting",
     "DATA_SCIENCE/03_Machine_Learning/02_Supervised/03_Tree_Models (The Logic Gates)",
-    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/02_Classification",
-    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/01_Regression",
-    "DATA_SCIENCE/03_Machine_Learning/05_Model_Evaluation"
+    "DATA_SCIENCE/03_Machine_Learning/02_Supervised/02_Classification"
   ]
 }
