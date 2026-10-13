@@ -11,10 +11,14 @@
             "id": "fb3f5a4b91f908ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GERMAN/DENEME.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "DENEME"
             }
           }
         ]
@@ -162,16 +166,28 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "f5bd8f4814038167",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -181,6 +197,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "fb3f5a4b91f908ee",
-  "lastOpenFiles": []
+  "active": "7770d69de8047ce5",
+  "lastOpenFiles": [
+    "ENGLISH/IDIOMS FREQUENTLY USED.md",
+    "GERMAN/DENEME.md",
+    "GERMAN",
+    "Untitled.base"
+  ]
 }

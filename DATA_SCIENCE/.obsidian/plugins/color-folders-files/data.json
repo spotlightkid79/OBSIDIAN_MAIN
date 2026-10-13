@@ -25,6 +25,11 @@
       "backgroundColor": "#1a07ab",
       "isBold": true,
       "textColor": "#ffffff"
+    },
+    "Excalidraw": {
+      "textColor": "#ffffff",
+      "isBold": true,
+      "backgroundColor": "#000000"
     }
   },
   "presets": {},
