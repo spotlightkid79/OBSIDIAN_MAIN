@@ -55,18 +55,18 @@
 
 ## 4. Karar Verme, Problemler ve Zorluklar
 
-|Deyim / İfade|Örnek Cümle|Türkçe Anlamı|
-|---|---|---|
-|**In hot water**|He's in hot water with his boss for missing the deadline.|Başı belada / Zorda olmak|
-|**Bite the bullet**|I had to bite the bullet and pay the fine.|Acı hapı yutmak, zorluğa göğüs germer|
-|**Bite off more than one can chew**|She bit off more than she could chew by taking three projects.|Kaldıramayacağı yükün altına girmek|
-|**Think outside the box**|To solve this problem, we need to think outside the box.|Ezber bozmak, farklı açıdan düşünmek|
-|**Back to the drawing board**|The project failed, so it's back to the drawing board.|Sıfırdan başlamak, sil baştan yapmak|
-|**Desperate times call for desperate measures**|We had to sell the house; desperate times call for desperate measures.|Zor zamanlar radikal önlemler gerektirir|
-|**It's a bit of a challenge**|Learning a third language is a bit of a challenge.|Biraz zor / Zorlayıcı bir durum|
-|**In a pinch**|This tool isn't ideal, but it will do in a pinch.|Zorda/Darlıkta kalınca, sıkışınca|
-|**Make up your mind**|You need to make up your mind before it's too late.|Karar vermek|
-|**Walk in their shoes**|Before judging someone, try to walk in their shoes.|Kendini başkasının yerine koymak|
+| Deyim / İfade                                   | Örnek Cümle                                                            | Türkçe Anlamı                            |
+| ----------------------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------- |
+| **In hot water**                                | He's in hot water with his boss for missing the deadline.              | Başı belada / Zorda olmak                |
+| **Bite the bullet**                             | I had to bite the bullet and pay the fine.                             | Acı hapı yutmak, zorluğa göğüs germer    |
+| **Bite off more than one can chew**             | She bit off more than she could chew by taking three projects.         | Kaldıramayacağı yükün altına girmek      |
+| **Think outside the box**                       | To solve this problem, we need to think outside the box.               | Ezber bozmak, farklı açıdan düşünmek     |
+| **Back to the drawing board**                   | The project failed, so it's back to the drawing board.                 | Sıfırdan başlamak, sil baştan yapmak     |
+| **Desperate times call for desperate measures** | We had to sell the house; desperate times call for desperate measures. | Zor zamanlar radikal önlemler gerektirir |
+| **It's a bit of a challenge**                   | Learning a third language is a bit of a challenge.                     | Biraz zor / Zorlayıcı bir durum          |
+| **In a pinch**                                  | This tool isn't ideal, but it will do in a pinch.                      | Zorda/Darlıkta kalınca, sıkışınca        |
+| **Make up your mind**                           | You need to make up your mind before it's too late.                    | Karar vermek                             |
+| **Walk in their shoes**                         | Before judging someone, try to walk in their shoes.                    | Kendini başkasının yerine koymak         |
 
 ## 5. Kolaylık, Çaba ve Mükemmellik
 
