@@ -11,7 +11,7 @@ color: null
 
 ## What it is
 Roll up rows into summaries. Aggregates: `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`, `STDDEV`. `HAVING` filters the resulting groups.
-F
+
 ## Key idea
 Every non-aggregated column in `SELECT` must appear in `GROUP BY`.
 
