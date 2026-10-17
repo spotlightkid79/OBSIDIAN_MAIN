@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGLISH/VOCABULARY.md",
+                "file": "GERMAN/UNIT1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VOCABULARY"
+              "title": "UNIT1"
             }
           }
         ]
@@ -199,8 +199,9 @@
   },
   "active": "fb3f5a4b91f908ee",
   "lastOpenFiles": [
-    "GERMAN/DENEME.md",
     "ENGLISH/VOCABULARY.md",
+    "GERMAN/UNIT1.md",
+    "GERMAN/DENEME.md",
     "SPANISH/Welcome.md",
     "SPANISH/README.md",
     "ENGLISH/IDIOMS FREQUENTLY USED.md",
