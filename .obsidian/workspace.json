@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "12fdadd2544fff72",
@@ -198,7 +197,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "fb3f5a4b91f908ee",
+  "active": "f5bd8f4814038167",
   "lastOpenFiles": [
     "ENGLISH/VOCABULARY.md",
     "GERMAN/UNIT1.md",
